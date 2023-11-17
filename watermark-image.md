@@ -1,3 +1,7 @@
+## Watermark Image Online Tool at ByteWise.One
+
+Link: [Watermark Image](https://bytewise.one/tool/watermark-image)
+
 ## Why You Should Add a Watermark to Photos?
 
 Adding a watermark to photos serves several purposes, and the decision to use watermarks depends on your specific needs and goals. Here are some reasons why people choose to add watermarks to their photos:
